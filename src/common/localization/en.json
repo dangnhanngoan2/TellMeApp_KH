@@ -1,0 +1,381 @@
+{
+  "validate": {
+    "phone": "Phone numbers must have 10 or 11 numbers",
+    "email": "Email must be in the correct format eg abc@gmail.com",
+    "birthday": "You must be over 18 years old",
+    "required": "Required field"
+  },
+  "common": {
+    "cancel_detail": "Are you sure cancel this booking?",
+    "permisstion_location": "We ask that you provide access to your location. Please reinstall the application to use.",
+    "error_permission_noti": "We require that you provide access to Notification. Please reinstall the application to use.",
+    "error_permission_location": "We could not locate you. Please reinstall the application and allow access to the required application permissions.",
+    "delete_success": "Delete successful",
+    "network_error": "Network Error",
+    "has_error": "An Error Occurred",
+    "hour": "Hour",
+    "success": "Success",
+    "alert_title": "Infomation",
+    "seconds": "Second",
+    "waiting_opt": "Request a new OPT code",
+    "opt_title": "Please wait and enter the OPT code to complete the registration",
+    "code_opt_error": "OTP Code is requied",
+    "ok": "Ok",
+    "finish_soon": "The appointment ended early. You can order another appointment right away.",
+    "finish_soon_content": "Are you sure you want to end the appointment soon?"
+  },
+  "header": {
+    "surplus": "Surplus"
+  },
+  "login": {
+    "forgot_pincode": "Forgot pincode",
+    "logout_account": "Logout",
+    "greeting_pin_code": "Wellcome",
+    "enter_pin_code": "Enter your Pincode",
+    "greeting_login": "Enter your phone number to login Tellme",
+    "enter_phone": "Enter the your phone number",
+    "not_account": "Do not have an account?",
+    "register": "Register",
+    "alert_title": "Infomation",
+    "alert_phone": "Phone number does not exist",
+    "alert_not_phone": "Phone number is required",
+    "alert_pin_code": "Pin code incorrect",
+    "alert_not_code": "Pincode is required",
+    "button": "Sign in"
+  },
+  "signup": {
+    "creat_pin": {
+      "title_app": "App for making appointments",
+      "title_screen": "Create pincode",
+      "button": "Login",
+      "exit": "Exit account",
+      "alert": "Pin code consists of 4 characters",
+      "alert_title": "Infomation"
+    },
+    "no_required": "No required",
+    "upload": "Upload image",
+    "alert_title": "Infomation",
+    "alert_policy": "The policy needs to be confirmed",
+    "alert_avatar": "Avatars are required",
+    "alert_accountkid": "The phone number confirming the facebook account kit is incorrect",
+    "alert_success": "Congratulations on signing up successfully. Please confirm phone number with OPT code",
+    "alert_phone_exist": "Phone number already exists",
+    "title": "Sign up for an account",
+    "policy": "I agree with Tellme's policies and terms",
+    "register": "Register",
+    "policy_content": "Your information will be security"
+  },
+  "accounts": {
+    "wallet": {
+      "title": "TellMe Wallet"
+    },
+    "agency": {
+      "title": "Agency Login"
+    },
+    "profile": {
+      "partner_code": "Partner code",
+      "partner_code_sup": "optional",
+      "title": "Profile",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone number",
+      "birthday": "Year of Birth",
+      "sex": "Sex",
+      "code": "Code distributor/Code referral",
+      "male": "Male",
+      "female": "Female",
+      "button": "Update",
+      "alert_title": "Infomation",
+      "alert_success": "updated Successfully",
+      "upload_avatar": "Upload Avatar"
+    },
+    "setting": {
+      "title": "Setting",
+      "change_code": {
+        "title": "Change pincode",
+        "old_code": "Current pincode",
+        "new_code": "New pincode",
+        "confirm_code": "Confirm new pin code",
+        "alert_title": "Infomation",
+        "alert_wrong_code": "Wrong pincode",
+        "alert_duplicate": "New pin and old pin cannot be the same",
+        "alert_confirm_code": "Wrong pincode confirmation",
+        "alert_success": "changed pincode successfully",
+        "button": "Save change"
+      },
+      "language": {
+        "title": "Change language",
+        "vi": "Vietnamese",
+        "en": "English"
+      },
+      "logout": {
+        "title": "Logout",
+        "cancel": "Cancel",
+        "ok": "Logout",
+        "alert_title": "Do you want to logout?",
+        "alert_content": "If logged out you will not be able to receive any chat messages, access to find staff and edit profile information. Logout or Cancel"
+      }
+    },
+    "guide": {
+      "title": "User guide"
+    },
+    "feedback": {
+      "title": "Feedback tellme",
+      "send_feedback": "Send feedback",
+      "alert_title": "Infomation",
+      "alert_empty": "Feedback can not empty",
+      "feedback_success": "Thank you for your feedback with Telme, your feedback is very valuable to us"
+    }
+  },
+  "navigation": {
+    "new": "Booking",
+    "action": "Activities",
+    "payment": "Payment",
+    "messages": "Messages",
+    "account": "Account",
+    "exchange": "Tellme exchange"
+  },
+  "home": {
+    "loading_employee": "5 minutes of finding candidates for you to get started. If you cannot choose anyone, please reset the service",
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening",
+    "title_maxim": "Đừng bao giờ so sánh bạn với người khác.",
+    "choose_services": "Choose a services:",
+    "choose_hour": "Time:",
+    "choose_gender": "Who do you prefer:",
+    "address": "To",
+    "enter_address": "Enter address",
+    "button": "Book now",
+    "plan": {
+      "choose_time": "Choose time",
+      "button": "Book now",
+      "alert_time": "Thời gian phải báo trước 5 phút"
+    },
+    "alert_faile": {
+      "title": "Infomation",
+      "empty_service": "Service is required"
+    }
+  },
+  "actions": {
+    "action_detail": {
+      "title": {
+        "title": "Booking detail",
+        "wait_confirm": "Waiting for booking confirmation",
+        "text_wait_confirm": "Please wait for staff to confirm the appointment, chat with staffs to know the route",
+        "happenning": "Appointment is going on",
+        "upcoming": "Appointment upcoming",
+        "text_upcoming": "Please wait for staff in the process of moving, chat with staff to know the route",
+        "cancel": "Appointment canceled",
+        "used": "Appointment used"
+      },
+      "service": "service",
+      "staffs_name": "Staff",
+      "hour": "Time",
+      "time": "Hour",
+      "address": "Address",
+      "paymen_method": "Payment method",
+      "staffs_code": "Staff code",
+      "price": "Payment amount",
+      "messages": "Messages",
+      "exit": "Back",
+      "appointment": "Appointment schedule"
+    },
+    "text_static": {
+      "used": "Used",
+      "upcoming": "Upcoming",
+      "cancel": "Canceled",
+      "waiting": "Waiting",
+      "process": "In Progress"
+    },
+    "service": "service:",
+    "staff_code": "Staff code:",
+    "hour": "Time:",
+    "button": "Book again",
+    "finish_soon": "Finish soon"
+  },
+  "payment": {
+    "text6": "Escort HR Services and Professional Freelancer ",
+    "price_list": "Price list",
+    "cafe": "Cafe",
+    "sing": "Sing",
+    "bar": "Bar, pub",
+    "feast": "Feast",
+    "money": "Money(K) / hour",
+    "heart": "Heart / hour",
+    "assistant": "Assistant",
+    "text1": "Please transfer to one of the suppliers' banks below to convert to a",
+    "text2": "and use the service more convenient and economical than cash payment of 20%.",
+    "text3": "If you do not need to use the service, you can contact the call center for a refund according to the general regulations. (withdrawal fee 10%)",
+    "text4": "When you transfer into the above accounts, your money will be immediately converted to Tim so you can start using the Services.",
+    "text5": "If after 10 minutes you have not been redeemed, please contact the hotline: 1900 63.62.92. Enter your message Or send your statement via hotline zalo: 0919005856 to be activated or refunded.",
+    "pay": "Pay: ",
+    "vip": "Vip card",
+    "content": "Content for transfer: Customers phone number 0986986xxx recharge",
+    "bank": "Bank account",
+    "best_regard": "Best regard!"
+  },
+  "order_employee": {
+    "employee_empty": "No data",
+    "not_enough_money": "You need to have a minimum balance of 30% of the booking value!",
+    "employee_detail": {
+      "employee_code": "Staff code",
+      "age": "Age",
+      "near": "Nearly:",
+      "interests": "Interests",
+      "rating": "Rating",
+      "Time_remaining": "Remaining time to choose the right staff",
+      "seconds": "seconds",
+      "expected": "Expected:",
+      "minutes": "minute for start metting"
+    },
+    "order_detail": {
+      "title": "Service details",
+      "employee": "Number of staff",
+      "people": "staff",
+      "time": "Time",
+      "price": "Total service charge",
+      "payment_method": "Payment method"
+    },
+    "payment_type": {
+      "total": "Total",
+      "heart": "Book by heart",
+      "monney": "Book by monney",
+      "alert_empty_staff": "Need choice at least 1 staff",
+      "alert": "Please pay cash to staff immediately after the appointment ends. Tell Me sincerely thank you!"
+    },
+    "alert_empty_staff": {
+      "title": "Infomation",
+      "content": "Currently all staff at your request are busy, please try again with different requirements and locations"
+    },
+    "alert_not_choose_staff": {
+      "title": "Infomation",
+      "time_up": "Your staff selection time has expired, please choose your staff again",
+      "time_remaining": "Time to choose the right staff",
+      "seconds": "Seconds"
+    }
+  },
+  "review": {
+    "title": "The appointment ended",
+    "say_goodbye": "We hope to serve you in the future",
+    "send_feedback": "Send feedback",
+    "button": "Send feedback",
+    "alert": {
+      "title": "Infomation",
+      "content": "Thank you for rating this appointment"
+    }
+  },
+  "service": {
+    "title": "Service:",
+    "staff": "Staff:",
+    "button": "Book now"
+  },
+  "time_extension": {
+    "notification": "Your appointment will end in 10 minutes,count down to finishing time",
+    "choose_time": "Select the time you want to extend",
+    "detail_service": "Details of extended service charges",
+    "number_employee": "Number of staff",
+    "time": "Time",
+    "price": "Total service charge",
+    "payment_method": "Payment method",
+    "heart": "Book by heart",
+    "monney": "Book by monney"
+  },
+  "card_info": {
+    "title_other": "Your opinion",
+    "far": "Staff are too far away",
+    "busy": "I changed the plan",
+    "unconnected": "Unable to contact staff",
+    "time_mismatch": "Staff requested to cancel schedule",
+    "wait_long": "I waited too long",
+    "change_location": "I want to change location",
+    "other": "Other",
+    "alert_title": "Infomation",
+    "alert_content": "Are you sure you want to cancel this appointment? You will be charged 30% of the total appointment fee when canceling this appointment. This policy helps you review carefully before canceling the service",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "alert_cancel": "Successfully canceled the appointment",
+    "alert_reson": "You need to enter a reason for canceling the appointment",
+    "alert_ok": "Your appointment has been canceled, you have 20% hearts due to cancel this booking. Hope to serve you in the upcoming appointment",
+    "title": "Please wait for the staff during the move. Chat with the staff for details of the route.",
+    "title_cancel": "Please tell TellMe why you canceled the appointment. Your feedback is very valuable to us.",
+    "title_booking": "Booking details",
+    "send_feedback": "Send feedback",
+    "service": "Service",
+    "staff": "Employee",
+    "code_staff": "Employee code",
+    "time": "Time",
+    "hour": "hour",
+    "payment": "Payment",
+    "address": "Address",
+    "message": "Message",
+    "exit": "Exit",
+    "distanced": "Distanced"
+  },
+  "extension": {
+    "extant": "Extant",
+    "alert_title": "Infomation",
+    "extra_extension": "Extra extension",
+    "cost": "Details of additional service charges",
+    "payment_method": "Payment method",
+    "alert": "Successful renewal"
+  },
+  "map": {
+    "title_success": "Schedule successful"
+  },
+  "message": {
+    "day_ago": "day ago",
+    "hour_ago": "hour ago",
+    "minute_ago": "minute ago",
+    "seconds_ago": "seconds ago",
+    "employee_code": "Employee code",
+    "employee_name": "Employee name",
+    "upcoming": "Happenning"
+  },
+  "update_pin": {
+    "new_pin": "New pincode",
+    "confirm_pin": "Re-type new pincode",
+    "alert_title": "Infomation",
+    "alert_confirm": "Pin confirm wrong",
+    "title": "Change new pin code",
+    "button": "alert_not_choose_staffSave changes"
+  },
+  "forgot_pin": {
+    "title": "Change new pin code",
+    "alert_acckit": "The phone number confirming the facebook account kit is incorrect",
+    "alert_not_exist": "Phone number does not exist",
+    "alert_phone_require": "Please enter your phone number",
+    "button": "Confirm",
+    "alert_title": "Infomation",
+    "placeholder": "Phone number"
+  },
+  "VALIDATION_FIELD_NUMERIC": "The request must be a number",
+  "VALIDATION_FIELD_MIN": "Do not leave blank",
+  "VALIDATION_PHONE_EXISTS": "Phone number already exists",
+  "VALIDATION_FIELD_MAX": "Retype the correct birth year",
+  "VALIDATION_FIELD_DIGITS_BETWEEN": "The number of digits exceeds the specified level",
+  "VALIDATION_EMAIL_EXISTS": "Email already exists",
+  "VALIDATION_FIELD_REQUIRED": "Field must required",
+  "VALIDATION_FIELD_MIMES": "File format error",
+  "VALIDATION_FIELD_IN": "The required data must be a given string",
+  "VALIDATION_FIELD_DIGITS": "Data must be numeric",
+  "VALIDATION_FIELD_FILE": "File format error",
+  "VALIDATION_FIELD_NOT_EXIST": "Feild not exist",
+  "VALIDATION_PARTNER_CODE_NOT_EXIST": "Partner code not exist",
+  "forgot": {
+    "button_sendcode": "Receive OTP",
+    "button_checkcode": "Confirm OTP",
+    "title_sendcode": "Forgot pin",
+    "title_checkcode": "Check OTP",
+    "enter_opt": "Enter OPT Code",
+    "confirm_opt_code": "Confirm OPT Code",
+    "resend": "Resend OTP",
+    "error_otp": "OTP code is wrong"
+  },
+  "transaction": {
+    "number": "Transaction number",
+    "date": "Day trading",
+    "monney": "Transaction amount",
+    "detail": "Transaction details"
+  }
+}

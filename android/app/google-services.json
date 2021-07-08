@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257008805613",
+    "project_id": "tellme-nv",
+    "storage_bucket": "tellme-nv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257008805613:android:ad5ad757ac5aab5d810ee4",
+        "android_client_info": {
+          "package_name": "com.itleadpro.tellme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257008805613-cb49ef1011bm2qlqqpp1ngaeo2alepk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNB65lqt-61zjPDL1CJzqXsD5ULLk3INk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257008805613-cb49ef1011bm2qlqqpp1ngaeo2alepk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

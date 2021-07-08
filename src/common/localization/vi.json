@@ -1,0 +1,384 @@
+{
+  "validate": {
+    "phone": "Số điện thoại phải có 10 hoặc 11 số",
+    "email": "Email phải đúng định dạng vd: abc@gmail.com",
+    "birthday": "Bạn phải trên 18 tuổi",
+    "required": "Trường bắt buộc"
+  },
+  "common": {
+    "cancel_detail": "Bạn có chắc chắn muốn huỷ cuộc hẹn này không?",
+    "permisstion_location": "Chúng tôi yêu cầu bạn cung cấp quyền truy cập vị trí của bạn. Bạn vui lòng cài đặt lại ứng dụng để sử dụng.",
+    "error_permission_noti": "Chúng tôi yêu cầu bạn cung cấp quyền truy cập Notification. Bạn vui lòng cài đặt lại ứng dụng để sử dụng.",
+    "error_permission_location": "Chúng tôi không thể định vị được vị trí của bạn. Bạn vui lòng cài lại ứng dụng và cho phép truy cập các quyền ứng dụng yêu cầu.",
+    "network_error": "Xảy ra sự cố về mạng",
+    "has_error": "Đã có lỗi xảy ra",
+    "hour": "Giờ",
+    "success": "Thành công",
+    "alert_title": "Thông báo",
+    "seconds": "Giây",
+    "waiting_opt": "Yêu cầu mã OPT mới sau",
+    "opt_title": "Bạn vui lòng chờ và nhập mã OPT để hoàn thành đăng ký",
+    "code_opt_error": "Yêu cầu nhập mã OPT",
+    "delete_success": "Xoá thành công",
+    "ok": "Đồng ý",
+    "finish_soon": "Cuộc hẹn kết thúc sớm. Bạn có thể đặt cuộc hẹn khác ngay.",
+    "finish_soon_content": "Bạn chắc chắn muốn kết thúc cuộc hẹn sớm?"
+  },
+  "header": {
+    "surplus": "Số dư"
+  },
+  "login": {
+    "forgot_pincode": "Quên mật khẩu",
+    "logout_account": "Thoát tài khoản",
+    "greeting_pin_code": "Xin chào",
+    "enter_pin_code": "Nhập mã pin",
+    "greeting_login": "Nhập số điện thoại của bạn để đăng nhập tài khoản Tellme",
+    "enter_phone": "Nhập số điện thoại",
+    "not_account": "Không có tài khoản?",
+    "register": "Lần đầu sử dụng",
+    "alert_title": "Thông báo",
+    "alert_phone": "Số điện thoại không tồn tại",
+    "alert_not_phone": "Yêu cầu bắt buộc nhập số điện thoại",
+    "alert_pin_code": "Mã pin không đúng",
+    "alert_not_code": "Yêu cầu bắt buộc nhập mã pin",
+    "button": "Đăng nhập"
+  },
+  "signup": {
+    "creat_pin": {
+      "title_app": "Ứng dụng đặt lịch hẹn",
+      "title_screen": "Đổi mật khẩu",
+      "button": "Đăng nhập",
+      "exit": "Thoát tài khoản",
+      "alert": "Pin code bao gồm 4 ký tự",
+      "alert_title": "Thông báo"
+    },
+    "no_required": "Không bắt buộc",
+    "upload": "Avatar",
+    "alert_title": "Thông báo",
+    "alert_policy": "Chính sách cần được xác nhận",
+    "alert_avatar": "Bắt buộc phải có ảnh đại diện",
+    "alert_accountkid": "Số điện thoại xác nhận facebook account kit không đúng",
+    "alert_success": "Chúc mừng bạn đã đăng ký thành công. Vui lòng xác nhận số điện thoại thông qua mã OPT",
+    "alert_phone_exist": "Số điện thoại đã tồn tại",
+    "title": "Đăng ký tài khoản",
+    "policy": "Tôi đồng ý với chính sách và điều khoản của Tellme",
+    "register": "Đăng ký",
+    "policy_content": "Mọi thông tin đăng ký của bạn được Tellme bảo mật tuyết đối theo chính sách ứng dụng."
+  },
+  "accounts": {
+    "wallet": {
+      "title": "Ví tellme"
+    },
+    "agency": {
+      "title": "Đăng nhập đại lý"
+    },
+    "profile": {
+      "partner_code": "Mã đại lý ",
+      "partner_code_sup": "Hỏi người giới thiệu Tellme cho bạn",
+      "title": "Thông tin cá nhân",
+      "name": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "birthday": "Năm sinh",
+      "code": "Mã nhà phân phối/Mã giới thiệu",
+      "sex": "Giới tính",
+      "male": "Nam",
+      "female": "Nữ",
+      "button": "Cập nhật",
+      "alert_title": "Thông báo",
+      "alert_success": "Cập nhật thông tin thành công",
+      "upload_avatar": "Đổi avatar"
+    },
+    "setting": {
+      "title": "Cài đặt",
+      "change_code": {
+        "title": "Đổi mã pin mới",
+        "old_code": "Mã pin cũ",
+        "new_code": "Mã pin mới",
+        "confirm_code": "Nhập lại mã pin mới",
+        "alert_title": "Thông báo",
+        "alert_wrong_code": "Mã pin cũ sai",
+        "alert_duplicate": "Mã pin mới và mã pin cũ không thể giống nhau",
+        "alert_confirm_code": "Mã pin nhận lại sai",
+        "alert_success": "Mã pin được thay đổi thành công",
+        "button": "Lưu thay đổi"
+      },
+      "language": {
+        "title": "Thay đổi ngôn ngữ",
+        "vi": "Tiếng việt",
+        "en": "English"
+      },
+      "logout": {
+        "title": "Đăng xuất",
+        "cancel": "Hủy",
+        "ok": "Đăng xuất",
+        "alert_title": "Bạn có muốn đăng xuất không?",
+        "alert_content": "Nếu đăng xuất bạn sẽ không thể nhận được bắt kỳ tin nhắn trò chuyện, truy cập để tìm nhân viên và chỉnh sửa thông tin cá nhân. Đăng Xuất or Hủy"
+      }
+    },
+    "guide": {
+      "title": "Hướng dẫn sử dụng"
+    },
+    "feedback": {
+      "title": "Phản hồi tellme",
+      "send_feedback": "Gửi phản hồi",
+      "alert_title": "Thông báo",
+      "alert_empty": "Bạn chưa nhập nội dung gửi phản hồi",
+      "feedback_success": "Cảm ơn bạn đã phản hồi với Tellme, phản hồi của bạn rất đáng giá đối với chúng tôi"
+    }
+  },
+  "navigation": {
+    "new": "Đặt hẹn",
+    "action": "Lịch sử",
+    "payment": "Nạp tiền",
+    "messages": "Tin nhắn",
+    "account": "Tài khoản",
+    "exchange": "Sàn Tellme"
+  },
+  "home": {
+    "loading_employee": "2 phút tìm kiếm ứng viên cho bạn bắt đầu. Nếu không chọn được ai bạn vui lòng đặt lại dịch vụ.",
+    "morning": "Chào buổi sáng",
+    "afternoon": "Chào buổi chiều",
+    "evening": "Chào buổi tối",
+    "title_maxim": "Đừng bao giờ so sánh bạn với người khác.",
+    "choose_services": "Lựa chọn dịch vụ:",
+    "choose_hour": "Thời lượng:",
+    "choose_gender": "Bạn chọn ai:",
+    "address": "Đến địa chỉ",
+    "enter_address": "Nhập địa chỉ",
+    "button": "Đặt ngay",
+    "plan": {
+      "choose_time": "Chọn thời gian",
+      "button": "Đặt lịch ngay",
+      "alert_time": "Thời gian phải báo trước 5 phút"
+    },
+    "alert_faile": {
+      "title": "Thông báo",
+      "empty_service": "Bạn cần lựa chọn một dịch vụ"
+    }
+  },
+  "actions": {
+    "action_detail": {
+      "title": {
+        "title": "Chi tiết Booking",
+        "wait_confirm": "Chờ xác nhận",
+        "text_wait_confirm": "Bạn vui lòng chờ nhân viên xác nhận buổi hẹn. Hãy chát với nhân viên để biết được lộ trình",
+        "happenning": "Đang diễn ra",
+        "upcoming": "Sắp diễn ra",
+        "text_upcoming": "Bạn vui lòng chờ nhân viên đang trong quá trình di chuyển. Hãy chát với nhân viên để biết được lộ trình",
+        "cancel": "Đã hủy",
+        "used": "Đã sử dụng"
+      },
+      "service": "Loại dịch vụ",
+      "staffs_name": "Nhân viên",
+      "hour": "Thời lượng",
+      "time": "Giờ",
+      "address": "Địa chỉ",
+      "paymen_method": "Phương thức thanh toán",
+      "staffs_code": "Mã nhân viên",
+      "price": "Số tiền thanh toán",
+      "messages": "Nhắn tin",
+      "exit": "Hủy",
+      "appointment": "Lịch hẹn"
+    },
+    "text_static": {
+      "used": "Đã sử dụng",
+      "upcoming": "Sắp diễn ra",
+      "cancel": "Đã hủy",
+      "waiting": "Chờ xác nhận",
+      "process": "Đang diễn ra"
+    },
+    "service": "Loại hình dịch vụ:",
+    "staff_code": "Mã nhân viên:",
+    "hour": "Thời lượng:",
+    "button": "Hẹn lại",
+    "finish_soon": "Kết thúc",
+    "staffs_name": "Nhân viên: "
+  },
+  "payment": {
+    "text6": "Dịch vụ nhân sự Escort và Freelancer chuyên nghiệp ",
+    "text1": "Quý khách vui lòng chuyển khoản tới một trong những ngân hàng dưới đây của nhà cung cấp ( hoặc mua Tim từ các đại lý và đối tác của Tellme trên toàn quốc) để quy đổi thành",
+    "price_list": "Bảng giá DV",
+    "cafe": "Cafe",
+    "sing": "Giao lưu",
+    "bar": "Bar, pub",
+    "feast": "Ẩm thực",
+    "assistant": "Trợ lý",
+    "money": "Tiền mặt / giờ",
+    "heart": "Tim / giờ",
+    "text2": "để sử dụng dịch vụ thuận tiện và tiết kiệm hơn hình thức trả tiền mặt 20%.",
+    "text3": "Nếu quý khách không có nhu cầu sử dụng tiếp dịch vụ thì có thể liên hệ tổng đài để được hoàn lại tiền theo quy định chung. (Phí rút 10%)",
+    "text4": "Khi bạn chuyển khoản vào các tài khoản trên thì tiền của bạn sẽ ngay lập tức được quy đổi thành Tim để có thể bắt đầu sử dụng Dịch vụ.",
+    "text5": "Nếu sau 10 phút bạn chưa được quy đổi vui lòng liên hệ hotline: 0919005856 để được kích hoạt hoặc hoàn tiền.",
+    "pay": "Nạp: ",
+    "vip": "Thẻ vip",
+    "content": "Nội dung chuyển khoản: (Số ĐT của bạn) nạp tim.",
+    "bank": "Tài khoản ngân hàng",
+    "best_regard": "Trân trọng!"
+  },
+  "order_employee": {
+    "employee_empty": "Không có dữ liệu",
+    "not_enough_money": "Quý khách cần có số dư tối thiểu bằng 30% giá trị booking!",
+    "employee_detail": {
+      "employee_code": "Mã NV:",
+      "age": "Tuổi",
+      "near": "Gần đây:",
+      "interests": "Sở thích",
+      "rating": "Đánh giá:",
+      "Time_remaining": "Thời gian chọn nhân viên phù hợp còn",
+      "seconds": "Giây",
+      "expected": "Dự kiến:",
+      "minutes": "Phút có mặt"
+    },
+    "order_detail": {
+      "title": "Chi tiết dịch vụ",
+      "employee": "Số nhân viên",
+      "people": "Người",
+      "time": "Thời lượng",
+      "price": "Tổng phí dịch vụ",
+      "payment_method": "Phương thức thanh toán"
+    },
+    "payment_type": {
+      "heart": "Trả bằng Tim",
+      "monney": "Trả tiền mặt",
+      "alert_empty_staff": "Cần chọn tối thiểu 1 nhân viên",
+      "alert": "Quý khách vui lòng thanh toán tiền mặt cho nhân viên ngay khi kết thúc cuộc hẹn. TellMe xin chân thành cảm ơn!",
+      "alert_title": "Thông báo",
+      "total": "Tổng phí"
+    },
+    "alert_empty_staff": {
+      "title": "Thông báo",
+      "content": "Hiện tất cả nhân viên theo yêu cầu của bạn đều đang bận, xin vui lòng thử lại với yêu cầu và địa điểm khác"
+    },
+    "alert_not_choose_staff": {
+      "title": "Thông báo",
+      "time_up": "Thời gian chọn NV của bạn đã hết, bạn vui lòng chọn lại NV",
+      "time_remaining": "Thời gian chọn nhân viên phù hợp còn",
+      "seconds": "Giây"
+    }
+  },
+  "review": {
+    "title": "Cuộc hẹn đã kết thúc",
+    "say_goodbye": "Chúng tôi hi vọng sẽ được phục vụ bạn trong những lần tới.",
+    "send_feedback": "Gửi phản hồi",
+    "button": "Gửi phản hồi",
+    "alert": {
+      "title": "Thông báo",
+      "content": "Cảm ơn bạn đã đánh giá cuộc hẹn này"
+    }
+  },
+  "service": {
+    "title": "Dịch vụ:",
+    "staff": "Nhân viên:",
+    "button": "Đặt ngay"
+  },
+  "time_extension": {
+    "notification": "Buổi hẹn của bạn sẽ kết thúc sau 10 phút nữa, thời gian 10 phút sẽ được đếm ngược",
+    "choose_time": "Chọn thời lượng bạn muốn gia hạn thêm",
+    "detail_service": "Chi tiết phí dịch vụ gia hạn thêm",
+    "number_employee": "Số nhận viên",
+    "time": "Thời lượng",
+    "price": "Tổng phí dịch vụ",
+    "payment_method": "Phương thức thanh toán",
+    "heart": "Đặt bằng tim",
+    "monney": "Đặt bằng tiền mặt"
+  },
+  "card_info": {
+    "title_other": "Ý kiến của bạn",
+    "far": "Nhân viên đang ở quá xa",
+    "busy": "Tôi đã thay đổi kế hoạch",
+    "unconnected": "Không liên lạc được với nhân viên  ",
+    "time_mismatch": "Nhân viên yêu cầu huỷ lịch",
+    "wait_long": "Tôi đợi quá lâu",
+    "change_location": "Tôi muốn đổi địa điểm",
+    "other": "Khác",
+    "alert_title": "Thông báo",
+    "alert_content": "Bạn có chắc muốn huỷ lịch hẹn này không? Quý khách sẽ bị trừ 30% tổng phí cuộc hẹn khi hủy cuộc hẹn này. Chính sách này giúp bạn xem xét kĩ trước khi hủy dịch vụ",
+    "cancel": "Hủy",
+    "ok": "Đồng ý",
+    "alert_cancel": "Hủy lịch hẹn thành công",
+    "alert_reson": "Bạn cần phải nhập lý do hủy lịch hẹn",
+    "alert_ok": "Lịch hẹn của bạn đã được hủy,bạn bị trừ 30% tim do hủy mã Booking này.  Hi vọng được phục vụ bạn trong những lịch hẹn sắp tới",
+    "title": "Bạn vui lòng chờ đợi nhân viên trong quá trình di chuyển.Hãy chát với nhân viên để biết được chi tiết lộ trình.",
+    "title_cancel": "Vui lòng cho TellMe biết lý do bạn huỷ lịch hẹn. Phản hồi của bạn rất đáng quý cho chúng tôi.",
+    "title_booking": "Chi tiết booking",
+    "send_feedback": "Gửi phản hồi",
+    "service": "Loại dịch vụ",
+    "staff": "Nhân viên",
+    "code_staff": "Mã nhân viên",
+    "time": "Thời lượng",
+    "hour": "tiếng",
+    "payment": "Thanh toán",
+    "address": "Địa điểm",
+    "message": "Nhắn tin",
+    "exit": "Hủy",
+    "distanced": "Khoảng cách"
+  },
+  "extension": {
+    "extant": "Còn lại",
+    "extra_extension": "Gia hạn thêm",
+    "cost": "Chi tiết phí dịch vụ gia hạn thêm",
+    "payment_method": "Phương thức thanh toán",
+    "alert_title": "Thông báo",
+    "alert": "Gia hạn thành công"
+  },
+  "map": {
+    "title_success": "Đặt lịch thành công"
+  },
+  "message": {
+    "day_ago": "ngày trước",
+    "hour_ago": "giờ trước",
+    "minute_ago": "phút trước",
+    "seconds_ago": "giây trước",
+    "employee_code": "Mã nhân viên",
+    "employee_name": "Tên nhân viên",
+    "upcoming": "Đang diễn ra"
+  },
+  "update_pin": {
+    "new_pin": "Mã pin mới",
+    "confirm_pin": "Nhập lại mã pin mới",
+    "alert_title": "Thông báo",
+    "alert_confirm": "Mã pin nhận lại sai",
+    "alert_success": "Thay đổi mã Pin thành công",
+    "title": "Đổi mã pin mới",
+    "button": "Lưu thay đổi"
+  },
+  "forgot_pin": {
+    "title": "Đổi mã pin mới",
+    "alert_acckit": "Số điện thoại xác nhận facebook account kit không đúng",
+    "alert_not_exist": "Số điện thoại không tồn tại",
+    "alert_phone_require": "Yêu cầu nhập số điện thoại",
+    "button": "Xác nhận",
+    "alert_title": "Thông báo",
+    "placeholder": "Số điện thoại"
+  },
+  "VALIDATION_FIELD_NUMERIC": "Yêu cầu phải là số",
+  "VALIDATION_FIELD_MIN": "Không được để trống",
+  "VALIDATION_PHONE_EXISTS": "Số điện thoại đã tồn tại",
+  "VALIDATION_FIELD_MAX": "Yêu cầu nhập đúng năm sinh",
+  "VALIDATION_FIELD_DIGITS_BETWEEN": "Số điện thoại không đúng định dạng",
+  "VALIDATION_EMAIL_EXISTS": "Email đã tồn taị",
+  "VALIDATION_FIELD_REQUIRED": "Các trường phải được điền đâỳ đủ",
+  "VALIDATION_FIELD_MIMES": "Lỗi định dạng file",
+  "VALIDATION_FIELD_IN": "Dữ liệu bắt buộc phải là chuỗi cho trước",
+  "VALIDATION_FIELD_DIGITS": "Dữ liệu phải là dạng số",
+  "VALIDATION_FIELD_FILE": "Lỗi định dạng file",
+  "VALIDATION_FIELD_NOT_EXIST": "Trường dữ liệu không tồn tại",
+  "VALIDATION_PARTNER_CODE_NOT_EXIST": "Mã đại lý không tồn tại",
+  "forgot": {
+    "button_sendcode": "Nhận mã OTP",
+    "button_checkcode": "Xác nhận OTP",
+    "title_sendcode": "Quên mã pin",
+    "title_checkcode": "Kiểm tra mã OTP",
+    "enter_opt": "Nhập mã OPT",
+    "confirm_opt_code": "Xác nhận mã OTP",
+    "resend": "Gửi lại OTP",
+    "error_otp": "Mã OTP bị sai"
+  },
+  "transaction": {
+    "number": "Số giao dịch",
+    "date": "Ngày giao dịch",
+    "monney": "Số tiền giao dịch",
+    "detail": "Chi tiết giao dịch"
+  }
+}

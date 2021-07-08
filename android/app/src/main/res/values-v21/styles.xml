@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.ReactNative.AppCompat.Light.NoActionBar.FullScreen">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:statusBarColor">#28b357</item>
+    </style>
+</resources>

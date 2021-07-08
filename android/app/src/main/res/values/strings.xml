@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TellMeKH</string>
+    <string name="appID">2977532204050727898</string>
+    <string name="ak_login_protocol_scheme">ak1120362614821033</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">3YMBAOwRn21MvXUdaj40lo3VPQXQoFuKcbMIGj</string>
+</resources>

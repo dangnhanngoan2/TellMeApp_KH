@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.ReactNative.AppCompat.Light.NoActionBar.FullScreen">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:statusBarColor">#28b357</item>
+    </style>
+</resources>
